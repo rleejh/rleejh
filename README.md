@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There! Welcome to my Github profile! 👋
 
 <!--
 **rleejh/rleejh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+(He/Him)
+
+Undergraduate computer science student currently doing the accelerated BCS program at University of British Columbia (UBC). I have a previously completed a BA at McGill University.
+
+I currently am based in **Vancouver, BC**
+
+Passionate about building reliable software and learning modern technologies. Currently exploring Java, Spring Boot, REST APIs, and working with SQL databases.
+
+I love tackling real-world problems by writing clean, maintainable code and am always looking to grow by trying out new tools, frameworks, and best practices from across the stack.

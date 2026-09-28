@@ -1,4 +1,4 @@
-## Hi There! Welcome to my Github profile! 👋
+## Hi there, I'm Ray 👋
 
 <!--
 **rleejh/rleejh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(He/Him)
 
-Undergraduate computer science student currently doing the accelerated BCS program at University of British Columbia (UBC). I have a previously completed a BA at McGill University.
 
-I currently am based in **Vancouver, BC**
+I'm currently pursuing a **Bachelor of Computer Science** through UBC's second-degree program, with a particular interest in building software and understanding how systems work end-to-end.
 
-Passionate about building reliable software and learning modern technologies. Currently exploring Java, Spring Boot, REST APIs, and working with SQL databases.
+I previously completed my undergraduate degree at **McGill University** and worked in a variety of **HR, business, and analyst roles**, where working with data sparked my interest in the technical side of how information is collected, structured, and used. That curiosity ultimately led me to pursue further education in Computer Science.
 
-I love tackling real-world problems by writing clean, maintainable code and am always looking to grow by trying out new tools, frameworks, and best practices from across the stack.
+Through my studies and projects, I've gained experience **building web applications, working with relational databases, and developing software with Java and JavaScript**.
+
+I'm particularly interested in:
+
+* **Software Engineering**
+* **Backend & API Development**
+* **Data Engineering & Data Platforms**
+* **Cloud & Distributed Systems**
+
+I enjoy learning how different pieces of a system fit together, from data and backend services to APIs, testing, and the user interface.
+
+## Technical Skills
+
+**Languages**
+
+Java · JavaScript · SQL · C++ · C · HTML/CSS
+
+**Backend & APIs**
+
+Spring Boot · REST APIs · Maven
+
+**Frontend**
+
+React · Vue.js · HTML/CSS · Tailwind CSS
+
+**Databases**
+
+PostgreSQL · SQL Server · Oracle
+
+**Testing & Tools**
+
+JUnit · Playwright · Git · Postman · Figma
+
+**Concepts**
+
+Data Structures & Algorithms · Object-Oriented Programming · Relational Databases · Computer Systems
+
+## Let's Connect
+
+Feel free to reach out if you'd like to connect or chat about technology, software, or something you're building.
+
+[LinkedIn](https://www.linkedin.com/in/raymondleejh/)
+
